@@ -1,4 +1,5 @@
-<img align="middle" alt="header gif" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"/>
+<img align="middle" alt="header gif" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
+"/>
 <h2 align="center">Olá 👋 Me chamo Karlos Eduardo Kaminski</h2>
 
 <div>
