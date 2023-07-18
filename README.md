@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/KarlosEKaminski">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=karlosekaminski&show_icons=true&theme=transparent&include_all_commits=true?count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosekaminski&layout-compact&langs_count=16&theme=transparent&include_all_commits=true?count_private=true"/>  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=karlosekaminski&show_icons=true&theme=transparent"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosekaminski&layout-compact&langs_count=16&theme=transparent"/>  
 </div>
     
 ### Tecnologias
