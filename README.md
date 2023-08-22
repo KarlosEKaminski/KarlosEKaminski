@@ -1,6 +1,6 @@
 <img align="middle" alt="header gif" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
 <h2 align="center">Hey👋 my name is Karlos Eduardo Kaminski</h2>
-<p align="center">wWlcome to my GitHub profile!</p>
+<p align="center">Welcome to my GitHub profile!</p>
 
 <div>
   <a href="https://github.com/KarlosEKaminski">
