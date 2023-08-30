@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=java,html,mysql,git&theme=light" />
   </a>
 </p>
-
+<br>
 <h2 align="center">Connect with me!</h2>
 
 <div align="center">
