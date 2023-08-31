@@ -11,7 +11,7 @@
 <p align="center">📚 I'm currently learning: <strong>SpringBoot 🍃</strong></p>
 <br>
 
-<div>
+<div align="center">
   <a href="https://github.com/KarlosEKaminski">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=karlosekaminski&show_icons=true&theme=transparent"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosekaminski&layout-compact&langs_count=16&theme=transparent"/>  
