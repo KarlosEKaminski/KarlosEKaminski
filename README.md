@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/KarlosEKaminski">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=karlosekaminski&show_icons=true&hide_border=true&theme=transparent"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosekaminski&layout-compact&hide_border=true&langs_count=16&theme=transparent"/>  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosekaminski&layout=compact&hide_border=true&theme=transparent"/>  
 </div>
 <br>
   
