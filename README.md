@@ -6,7 +6,7 @@
 
 <p align="center"><strong>I'm a passionate developer from Brazil. Welcome to my GitHub profile!</strong></p>
 <br>
-<p align="center">📚 I'm currently learning: <strong>SpringBoot 🍃</strong></p>
+<p align="center">📚 I'm currently learning: <strong>C# and ASP.NET MVC</strong></p>
 <br>
 
 <div align="center">
