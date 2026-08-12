@@ -6,14 +6,7 @@
 
 <p align="center"><strong>I'm a passionate developer from Brazil. Welcome to my GitHub profile!</strong></p>
 <br>
-<p align="center">📚 I'm currently learning: <strong>C# and ASP.NET MVC</strong></p>
-<br>
-
-<div align="center">
-  <a href="https://github.com/KarlosEKaminski">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=karlosekaminski&show_icons=true&hide_border=true&theme=transparent"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosekaminski&layout=compact&hide_border=true&theme=transparent"/>  
-</div>
+<p align="center">📚 I'm currently learning: <strong>.NET CORE</strong></p>
 <br>
   
 <h2 align="center">Technologies and Tools:</h2>
